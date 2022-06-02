@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94751606250']
-global.premium = ['94751606250']
-global.ownernomer = '94751606250'
-global.ownername = '🐦Dark knight'
-global.botname = 'Dark Knight'
-global.footer = '©Dark knight.'
+global.owner = ['https://wa.me/94740249044']
+global.premium = ['https://wa.me/94740249044']
+global.ownernomer = 'https://wa.me/94751606250'
+global.ownername = '🐦❌Ꭰᥲʀκ͢❥Ӄᴎ͟͞ɪ͟͞ԍ͟͞ʜ͞T❌'
+global.botname = '❌Ꭰᥲʀκ͢❥Ӄᴎ͟͞ɪ͟͞ԍ͟͞ʜ͞T❌'
+global.footer = '©❌Ꭰᥲʀκ͢❥Ӄᴎ͟͞ɪ͟͞ԍ͟͞ʜ͞T❌.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
